@@ -1,0 +1,14 @@
+# Azure Secrets - NEVER TRACK THESE
+.env
+*.env
+config.py
+api_keys.py
+*.json
+
+# Python & System Junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+env/
