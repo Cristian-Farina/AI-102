@@ -2,4 +2,5 @@
 Resources Used for the praparation
 1) Microsoft Learn and labs.
 2) MicrosoftLearning Repos - https://github.com/orgs/MicrosoftLearning/repositories?q=mslearn-ai+sort%3Astars
-3) Microsoft Azure AI-102 Exam Questions - SkillCertPro
+3) https://learn.microsoft.com/en-us/azure/?product=ai-machine-learning
+4) Microsoft Azure AI-102 Exam Questions - SkillCertPro
